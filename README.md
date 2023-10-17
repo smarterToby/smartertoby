@@ -9,6 +9,7 @@ npx smartertoby
 ```
 <img src="assets/npx-smartertoby-console.png" alt="npx-smartertoby" style="max-height: 500px;">
 
+<br/>
 
 # 🤝Connect with me:
 
@@ -18,6 +19,8 @@ npx smartertoby
 <a href="https://stackoverflow.com/users/16773006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16773006" height="30" width="40" /></a>
 <a href="https://dribbble.com/smartertoby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="smartertoby" height="30" width="40" /></a>
 <a href="https://medium.com/@tobiasreuss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@tobiasreuss" height="30" width="40" /></a>
+
+<br/>
 
 # 💻 Tech Stack:
 
