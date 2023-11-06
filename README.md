@@ -65,6 +65,15 @@ npx smartertoby
 ---
 
 <!--START_SECTION:waka-->
+
+```txt
+Java              1 hr 28 mins    ████████████████████▒░░░░   80.94 %
+XML               18 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
+Bash              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 %
+YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+```
+
 <!--END_SECTION:waka-->
 
 ---
