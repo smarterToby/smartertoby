@@ -75,7 +75,7 @@ npx smartertoby
 </div>
 
 
-<br/>
+<hr/>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2058%20mins-blue)
