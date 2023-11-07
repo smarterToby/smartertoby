@@ -20,3 +20,4 @@ jobs:
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_UPDATED_DATE: "False"
+          SHOW_PROFILE_VIEWS: "False"
