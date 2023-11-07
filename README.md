@@ -62,14 +62,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
-###
+<br/>
+<hr/>
 
-A little more about me... with npm installed, just type
+### A little more about me... with [npm](https://www.npmjs.com/) installed, just type ...
 
 ```
 npx smartertoby
 ```
-<img align="center" height="500" src="assets/npx-smartertoby-console.png" alt="Console with output for 'npx smartertoby'" />
+<div align="center">
+  <img height="500" src="assets/npx-smartertoby-console.png" alt="Console with output for 'npx smartertoby'" />
+</div>
+
+
+<br/>
 
 <!--START_SECTION:waka-->
 
@@ -83,10 +89,10 @@ YAML              0 secs          ░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### 
+<br/>
 
 <img src="https://raw.githubusercontent.com/smartertoby/smartertoby/output/snake.svg" alt="Snake animation" />
 
-### 
+<br/>
 
 <img align="right" src="https://profile-counter.glitch.me/smartertoby/count.svg?"  />
