@@ -65,7 +65,7 @@
 <br/>
 <hr/>
 
-### A little more about me... with [npm](https://www.npmjs.com/) installed, just type ...
+**A little more about me... with npm installed, just type ...**
 
 ```
 npx smartertoby
