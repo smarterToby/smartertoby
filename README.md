@@ -69,7 +69,7 @@
 npx smartertoby
 ```
 <div align="center">
-  <img height="500" src="assets/npx-smartertoby-console.png" alt="Console with output for 'npx smartertoby'" />
+  <img src="assets/npx-smartertoby-console.png" alt="Console with output for 'npx smartertoby'" />
 </div>
 
 
